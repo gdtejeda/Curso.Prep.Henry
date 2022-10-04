@@ -1,0 +1,14 @@
+.tituloClass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+.tituloClass{ color: blue; }
+
+.resaltarClass {color: blue;}
+
+img {border: blue 5px solid; }
+
+
+

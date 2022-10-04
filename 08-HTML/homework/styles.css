@@ -1,0 +1,19 @@
+.thirdDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.divClass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {color: 	blue;}
+img {width: 400px;}	
+#thirdDiv {align-content:   width: 600px; heigth: 500px; background-color: yellowgreen;  padding: 50px; border: olive 5px solid;}
+#spanId {font-size: 18px; margin: 50px; }
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/04/99/99/45/240_F_499994545_YygPCLnRRteq7pyPR2OQAtRbz1IodkCp.jpg");
+  background-repeat: repeat;
+  background-size: 2rem;
+}
